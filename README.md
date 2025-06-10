@@ -1,5 +1,6 @@
 # Bus routes
 ![bus-routes-app](https://github.com/user-attachments/assets/1fdf8c5e-7b02-48db-8334-22bfd7b48002)
+![example-img](https://github.com/user-attachments/assets/70f57db2-3e81-4bae-b793-5a7a49aa91f9)
 (preview image)
 
 App inspired by https://zbiorkom.live/krakow (A little bit)
