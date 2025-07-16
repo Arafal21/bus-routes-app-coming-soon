@@ -5,8 +5,8 @@
 
 App inspired by https://zbiorkom.live/krakow (A little bit)
 
-Planned project start: 2025/09/01
-Planned project completion: 2026/11/30
+Planned project start: 2025/10/01 YY/MM/DD
+Planned project completion: 2026/10/30 YY/MM/DD
 
 A powerful web application for designing and optimizing city bus networks with both manual controls and AI-powered suggestions. Perfect for urban planners, local governments, and community groups who need flexible tools to plan routes and stops even in areas without existing public transit.
 
